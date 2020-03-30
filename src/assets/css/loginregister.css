@@ -1,0 +1,24 @@
+#back {
+  background: url("../login.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+body {
+  margin: 0px;
+}
+.container {
+  margin: 360px auto;
+  background-clip: padding-box;
+  width: 350px;
+  padding: 30px 30px 30px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px #ffffff;
+  background: #fff;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+.el-message__content{
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
